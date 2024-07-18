@@ -1,10 +1,13 @@
-#** Customer_Churn_Analysis_and_Prediction**
+# Customer_Churn_Analysis_and_Prediction
+
 
 
 **_Objective_**: To retain customers who are likely to churn by accurately identifying their behavior
 
 
+
 **_Dataset Link_**: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 
 
 **_Features Overview_**:
@@ -50,9 +53,15 @@ MonthlyCharges: Indicates the customer’s current total monthly charge for all 
 Churn: Yes = the customer left the company this quarter. No = the customer remained with the company. Directly related to Churn Value
 
 
+
 **_Methodology Used_**:
 
-Step 1: 
+Step 1: Data Preprocessing
+
+Step 2: Exploratory Data Analysis -- Univariate and Bivariate Analysis
+
+Step 3: Predictive Model Building -- SMOTEENN + Random Forest Classifier
+
 
 
 **_Findings_**:
@@ -71,5 +80,10 @@ Step 1:
 7. High churn was witnessed in the case of month-to-month contracts, no online security, no Tech support, the first year of subscription, and fiber optics internet. Low churn is seen in the case of long-term contracts, subscriptions without internet service, and customers engaged for 5+ years. Factors like gender, availability of phone service, and number of multiple lines have almost no impact on churn.
 
 
+
 **_Output_**:
-1. 
+
+Model Accuracy = 93.52%
+
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/b18428f4-5c24-4ff8-bb26-5bbd1bf10a78">
+
