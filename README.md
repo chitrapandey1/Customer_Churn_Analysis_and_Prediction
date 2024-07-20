@@ -62,6 +62,8 @@ Step 2: Exploratory Data Analysis -- Univariate and Bivariate Analysis
 
 Step 3: Predictive Model Building -- SMOTEENN + Random Forest Classifier
 
+Step 4: Model Deployment -- Streamlit
+
 
 
 **_Findings_**:
@@ -86,4 +88,15 @@ Step 3: Predictive Model Building -- SMOTEENN + Random Forest Classifier
 Model Accuracy = 93.52%
 
 <img width="386" alt="image" src="https://github.com/user-attachments/assets/b18428f4-5c24-4ff8-bb26-5bbd1bf10a78">
+
+
+
+
+**_Dashboard Preview_**:
+
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/a3c671b8-7f57-4138-b36e-75d1b2fcbf34">
+
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/4fc87f73-3a8e-4fc6-aba2-89f6ad157e2f">
+
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/f8b422c4-135b-4f14-8baa-5146c6a67474">
 
